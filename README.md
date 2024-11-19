@@ -10,13 +10,13 @@
 
 ### :woman_technologist: Обо мне :
 
-Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь начинался с медицины :woman_health_worker:, поработала два года и поняла, что это не мое. Решила начать изучать программирование, начинала с уроков на ютубе, затем пошла учиться в Яндекс Практикум, но бросила и стала обучаться самостоятельно.
+Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь начинался с медицины :woman_health_worker:, поработала два года и поняла, что это не мое. 
 
 
 ### 🤝 Социальные сети:
 
  <div id="badges">
-  <a href="https://t.me/katrinmem" target="_blank">
+  <a href="https://t.me/katrinamem" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
   </a>
   <a href="https://vk.com/averinakatyaa" target="_blank">
